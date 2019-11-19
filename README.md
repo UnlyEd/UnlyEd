@@ -8,6 +8,10 @@
 
 Read our [Terms](./TERMS.md).
 
+## Security Researcher Hall of Fame
+
+> No vulnerability disclosure was ever reported to us, so far
+
 ---
 
 # **[ABOUT UNLY]** <a href="https://unly.org"><img src="https://storage.googleapis.com/unly/images/ICON_UNLY.png" height="40" align="right" alt="Unly logo" title="Unly logo" /></a>
