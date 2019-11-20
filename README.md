@@ -8,9 +8,11 @@
 
 Read our [Terms](./TERMS.md).
 
-## Security Researcher Hall of Fame
+---
 
-> No vulnerability disclosure was ever reported to us, so far
+# Security Researcher Hall of Fame
+
+> No vulnerability was ever disclosed to us, so far.
 
 ---
 
